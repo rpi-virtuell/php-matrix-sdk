@@ -1,5 +1,5 @@
 {
-    "name": "meet-kinksters/php-matrix-sdk",
+    "name": "rpi-virtuell/php-matrix-sdk",
     "type": "library",
     "description": "PHP SDK for interacting with Matrix/Synapse.",
     "keywords": [
@@ -8,7 +8,7 @@
         "Synapse",
         "PHP"
     ],
-    "homepage": "https://github.com/meet-kinksters/php-matrix-sdk",
+    "homepage": "https://github.com/rpi-virtuell/php-matrix-sdk",
     "license": "MIT",
     "authors": [
         {
