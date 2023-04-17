@@ -38,12 +38,12 @@
         "phpunit/phpunit" : ">=5.4.3"
     },
     "autoload": {
-        "psr-7": {
+        "psr-4": {
             "MatrixPhp\\": "src"
         }
     },
     "autoload-dev": {
-        "psr-7": {
+        "psr-4": {
             "MatrixPhp\\Tests\\": "tests"
         }
     },
